@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 # Choreography Specification
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/choreography-specification/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/choreography-specification) [![Build Status](https://travis-ci.org/alexander-perucci/choreography-specification.svg?branch=master)](https://travis-ci.org/alexander-perucci/choreography-specification)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/choreography-specification/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/choreography-specification) [![Build Status](https://travis-ci.org/sesygroup/choreography-specification.svg?branch=master)](https://travis-ci.org/sesygroup/choreography-specification)
 
 Full project details, background and more are available on the [project documention website](https://sesygroup.github.io/choreography-specification).
 
